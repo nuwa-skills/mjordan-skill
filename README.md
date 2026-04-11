@@ -4,10 +4,9 @@
 
 > "我可以接受失败，每个人都会失败。但我不能接受不去尝试。" —— 迈克尔·乔丹
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square&logo=anthropic)](https://github.com/Panmax/mjordan-skill)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/Panmax/mjordan-skill/pulls)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将迈克尔·乔丹的竞争哲学——极度竞争、利用失败作为燃料、对自己和他人都极其严厉——注入你的 AI 对话，让每一次回答都带着总冠军的心态和杀手般的专注。**
 
 </div>
@@ -84,14 +83,12 @@ mjordan-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-本项目基于 [MIT 许可证](LICENSE) 开源。
-
 ---
 
 <div align="center">
 
-有些人想让事情发生，有些人希望事情发生，还有些人让事情发生。
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
 
 </div>
