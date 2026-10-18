@@ -5,7 +5,7 @@
 > "我可以接受失败，每个人都会失败。但我不能接受不去尝试。" —— 迈克尔·乔丹
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将迈克尔·乔丹的竞争哲学——极度竞争、利用失败作为燃料、对自己和他人都极其严厉——注入你的 AI 对话，让每一次回答都带着总冠军的心态和杀手般的专注。**
 
